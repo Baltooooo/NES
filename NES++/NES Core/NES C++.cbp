@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="NES C++" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/NES C++" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../../Last Hope/SDL2-2.30.9/x86_64-w64-mingw32/include" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32 -lSDL2main" />
+					<Add directory="../../Last Hope/SDL2-2.30.9/x86_64-w64-mingw32/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/NES C++" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-O2" />
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDL2main -lSDL2" />
+		</Linker>
+		<Unit filename="include/nes.h" />
+		<Unit filename="include/nes_apu.h" />
+		<Unit filename="include/nes_cpu.h" />
+		<Unit filename="include/nes_ppu.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/nes.cpp" />
+		<Unit filename="src/nes_apu.cpp" />
+		<Unit filename="src/nes_cpu.cpp" />
+		<Unit filename="src/nes_ppu.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

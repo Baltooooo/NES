@@ -1,0 +1,10 @@
+C:\Users\balto\source\repos\NESLauncher\NESLauncher\bin\Debug\NESLauncher.exe.config
+C:\Users\balto\source\repos\NESLauncher\NESLauncher\bin\Debug\NESLauncher.exe
+C:\Users\balto\source\repos\NESLauncher\NESLauncher\bin\Debug\NESLauncher.pdb
+C:\Users\balto\source\repos\NESLauncher\NESLauncher\obj\Debug\NESLauncher.csproj.AssemblyReference.cache
+C:\Users\balto\source\repos\NESLauncher\NESLauncher\obj\Debug\NESLauncher.Form1.resources
+C:\Users\balto\source\repos\NESLauncher\NESLauncher\obj\Debug\NESLauncher.Properties.Resources.resources
+C:\Users\balto\source\repos\NESLauncher\NESLauncher\obj\Debug\NESLauncher.csproj.GenerateResource.cache
+C:\Users\balto\source\repos\NESLauncher\NESLauncher\obj\Debug\NESLauncher.csproj.CoreCompileInputs.cache
+C:\Users\balto\source\repos\NESLauncher\NESLauncher\obj\Debug\NESLauncher.exe
+C:\Users\balto\source\repos\NESLauncher\NESLauncher\obj\Debug\NESLauncher.pdb
