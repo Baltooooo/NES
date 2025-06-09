@@ -30,7 +30,7 @@ To use the emulator, run NESLauncher.exe to choose a ROM and start playing.
 - SDL2
 
 # Known Issues
-- APU is barebones: only the triangle channel is implemented, and the quality isn't optimal.
+- APU is barebones: only the triangle channel is implemented and the quality isn't optimal.
 - Only Mapper 0 (NROM) ROMs are currently supported. MMC1+ support is in progress.
 - Balloon Trip mode in Balloon Fight has graphical or logic bugs.
 
