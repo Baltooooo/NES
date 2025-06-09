@@ -22,7 +22,7 @@ To use the emulator, run NESLauncher.exe to choose a ROM and start playing.
 - A Simple Launcher made with WindowsForms in C#
 - Config file for settings
 - Functioning 6502 CPU Core
-- Functioning PPU which supports dot by dot rendering and scrolling and sprites
+- Functioning PPU which supports dot by dot rendering, scrolling and sprites
 - A very barebones APU
 - Generic USB Controller Support
 
