@@ -1,7 +1,13 @@
-# NES++
-An NES Emulator written in C++ and partly C#
 
-The final goal of this emulator is to be able to play games up to atleast MMC3 with a decently functioning CPU, PPU and APU to boot. 
+<div align="center">
+  <h1>NES++</h1>
+  <p>An NES Emulator written in C++ and partly C#</p>
+  <p>The final goal of this emulator is to be able to play games up to atleast MMC3 with a decently functioning CPU, PPU and APU to boot. </p>
+  <img src=".github/demo.gif" alt="demonstration"/>
+</div>
+
+
+
 
 # Usage
 To use the emulator, run NESLauncher.exe to choose a ROM and start playing.
