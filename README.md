@@ -12,7 +12,7 @@
 # Usage
 To use the emulator, run NESLauncher.exe to choose a ROM and start playing.
 
-# Controls:
+# Controls
 
 | Key        | Action   |
 | ---------- | -------- |
